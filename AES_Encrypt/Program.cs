@@ -7,7 +7,7 @@ namespace AES_Encrypt
 {
     class Program
     {
-        private const string KEY_ENC = "184kf9dmskclrovj";
+        private const string KEY_ENC = "184kf9dmskcdrovj";
         static void Main(string[] args)
         {
             // encrypt
